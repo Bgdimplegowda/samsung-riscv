@@ -7,7 +7,8 @@
 
 **YEAR AND SEMESTER**: "2ND YEAR" &"3RD SEM"
 
-#TASK 01
+# TASK 01
+
 1.Create a GitHub repository named "samsung-riscv"
 
 2.Install the RISC-V toolchain using the VDI link
