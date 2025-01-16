@@ -14,3 +14,6 @@
 2.Install the RISC-V toolchain using the VDI link
 
 3.Refer to this C based lab video and RISC-V based lab video and perform the same steps on your machine
+
+![image alt](https://github.com/Bgdimplegowda/samsung-riscv/blob/main/task%201/Screenshot%20(1).png?raw=true)
+
