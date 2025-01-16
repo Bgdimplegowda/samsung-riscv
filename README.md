@@ -1,4 +1,4 @@
-# samsung-riscv
+# SAMSUNG-RISCV
  RISC-V Talent Development Program, powered by Samsung Semiconductor India Research (SSIR) along with VLSI System Design (VSD)
 # PROFILE OVERVIEW
 **NAME**: B.G DIMPLE GOWDA
